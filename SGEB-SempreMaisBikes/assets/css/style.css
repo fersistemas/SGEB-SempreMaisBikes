@@ -1,0 +1,82 @@
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #printable, #printable * {
+    visibility: visible;
+  }
+  #printable {
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+}
+
+
+
+.container_main{
+  width: 100%;  
+
+background: #000000;
+
+
+
+}
+
+.box_center{
+
+	width: auto%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 20px;
+	
+}
+
+.box_centerFull{
+ 
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 10px;
+	
+	
+
+}
+
+.div_coluna {
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
+.div_blocoCentro {
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+
+
+}
+
+
+
+
+.div_bloco2 {
+  float: left;
+
+
+	
+	width: 100px;
+}
+
+.reletorios{
+	font-size: 25px;
+	color: green; 
+}
+
+select{
+	border:1px #fc0 solid;/*não funciona no ie6*/
+	background:#0f0f0f;
+	color:#fff;
+}
+
+

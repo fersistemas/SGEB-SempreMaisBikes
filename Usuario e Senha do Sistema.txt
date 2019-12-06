@@ -1,0 +1,11 @@
+Nome: 
+Sempre Mais Bikes
+	
+usuario: 
+sempremaisbikes	
+
+Senha: 
+sempremaisbikes	
+
+Senha 
+Encriptada: $1$GJ3.X...$qzrQ.gpzTLlIqRQCErtxr0	
